@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f7c3ff198ae744a68f567aa5a02d08e, type: 3}
+  m_Name: PlaceholderEgg
+  m_EditorClassIdentifier: 
+  petName: Green Egg
+  image: {fileID: 21300000, guid: a84f7dd52aef743e8a5862143f352d1c, type: 3}
