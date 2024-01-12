@@ -1,1 +1,1 @@
-# minigame-collection
+# virtual-pet
