@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: PlaceholderBaby
   m_EditorClassIdentifier: 
   petName: Kitten
-  image: {fileID: 21300000, guid: d34df5eda890d4ef89e016598e6d9685, type: 3}
+  sprite: {fileID: 21300000, guid: d34df5eda890d4ef89e016598e6d9685, type: 3}

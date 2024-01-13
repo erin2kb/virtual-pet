@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: PlaceholderTeen
   m_EditorClassIdentifier: 
   petName: Medium Cat
-  image: {fileID: 21300000, guid: 6b07217e090f74fafae979fe029e37e4, type: 3}
+  sprite: {fileID: 21300000, guid: 6b07217e090f74fafae979fe029e37e4, type: 3}

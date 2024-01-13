@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: PlaceholderEgg
   m_EditorClassIdentifier: 
   petName: Green Egg
-  image: {fileID: 21300000, guid: a84f7dd52aef743e8a5862143f352d1c, type: 3}
+  sprite: {fileID: 21300000, guid: a84f7dd52aef743e8a5862143f352d1c, type: 3}

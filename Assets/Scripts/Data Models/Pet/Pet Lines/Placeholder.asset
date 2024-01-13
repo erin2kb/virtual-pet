@@ -12,3 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d35c6eb6fac94cc6b037a410d37070b, type: 3}
   m_Name: Placeholder
   m_EditorClassIdentifier: 
+  eggStage: {fileID: 11400000, guid: 5e091c5ed9b75497b909c12af5486f26, type: 2}
+  babyStage: {fileID: 11400000, guid: 9a9367f983c6a4661a0bbb03f9e30ef8, type: 2}
+  childStage: {fileID: 11400000, guid: 14ec58103594c48239ed58095337d26d, type: 2}
+  teenStage: {fileID: 11400000, guid: 447f00241ac2b4ca9b2c4c74fcc66b57, type: 2}
+  adultStage: {fileID: 11400000, guid: 57d8f7a2998a94528bbb4cc4f3ed2cb5, type: 2}

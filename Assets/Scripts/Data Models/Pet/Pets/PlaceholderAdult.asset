@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: PlaceholderAdult
   m_EditorClassIdentifier: 
   petName: Big Cat
-  image: {fileID: 21300000, guid: bd77f1357d7054555981ee198b97e8c6, type: 3}
+  sprite: {fileID: 21300000, guid: bd77f1357d7054555981ee198b97e8c6, type: 3}

@@ -388,7 +388,6 @@
 "Assets/Scripts/Data Models/DifficultyContainer.cs"
 "Assets/Scripts/Data Models/Pet/Pet.cs"
 "Assets/Scripts/Data Models/Pet/PetLine.cs"
-"Assets/Scripts/Data Models/Pet/PetLineCopy.cs"
 "Assets/Scripts/Data Models/Pet/PetStage.cs"
 "Assets/Scripts/Data Models/RPS/RPSHand.cs"
 "Assets/Scripts/Data Models/RPS/RPSHandContainer.cs"

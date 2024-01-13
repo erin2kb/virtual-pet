@@ -9,5 +9,5 @@ public class Pet : ScriptableObject
     public string petName;
 
     [SerializeField]
-    public Sprite image;
+    public Sprite sprite;
 }

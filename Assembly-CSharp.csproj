@@ -112,7 +112,6 @@
     <Compile Include="Assets/Library/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets/Library/TextMesh Pro/Examples &amp; Extras/Scripts/ObjectSpin.cs" />
     <Compile Include="Assets/Library/TextMesh Pro/Examples &amp; Extras/Scripts/TextConsoleSimulator.cs" />
-    <Compile Include="Assets/Scripts/Data Models/Pet/PetLineCopy.cs" />
     <Compile Include="Assets/Scripts/Data Models/Pet/PetStage.cs" />
     <Compile Include="Assets/Library/TextMesh Pro/Examples &amp; Extras/Scripts/VertexJitter.cs" />
     <Compile Include="Assets/Scripts/ActivePet.cs" />

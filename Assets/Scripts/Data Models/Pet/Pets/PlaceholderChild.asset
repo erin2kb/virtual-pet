@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: PlaceholderChild
   m_EditorClassIdentifier: 
   petName: Small Cat
-  image: {fileID: 21300000, guid: 6dfece6aeab9f4842bd44152ae6f438c, type: 3}
+  sprite: {fileID: 21300000, guid: 6dfece6aeab9f4842bd44152ae6f438c, type: 3}
