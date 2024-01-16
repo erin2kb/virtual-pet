@@ -386,6 +386,8 @@
 "Assets/Scripts/AIs/Simon/SimonOpponentAI.cs"
 "Assets/Scripts/Data Models/Difficulty.cs"
 "Assets/Scripts/Data Models/DifficultyContainer.cs"
+"Assets/Scripts/Data Models/Pet/GrowthCategory.cs"
+"Assets/Scripts/Data Models/Pet/GrowthValues.cs"
 "Assets/Scripts/Data Models/Pet/Pet.cs"
 "Assets/Scripts/Data Models/Pet/PetLine.cs"
 "Assets/Scripts/Data Models/Pet/PetStage.cs"

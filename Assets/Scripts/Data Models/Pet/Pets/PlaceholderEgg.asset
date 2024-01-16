@@ -14,3 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   petName: Green Egg
   sprite: {fileID: 21300000, guid: a84f7dd52aef743e8a5862143f352d1c, type: 3}
+  careRequirement: 3
+  foodRequirement: 0
+  groomingRequirement: 0
+  exerciseRequirement: 0
+  knowledgeRequirement: 0

@@ -116,6 +116,7 @@
     <Compile Include="Assets/Library/TextMesh Pro/Examples &amp; Extras/Scripts/VertexJitter.cs" />
     <Compile Include="Assets/Scripts/ActivePet.cs" />
     <Compile Include="Assets/Scripts/Screens/RPS/RPSPlayMenu.cs" />
+    <Compile Include="Assets/Scripts/Data Models/Pet/GrowthValues.cs" />
     <Compile Include="Assets/Library/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01_UGUI.cs" />
     <Compile Include="Assets/Library/TextMesh Pro/Examples &amp; Extras/Scripts/VertexZoom.cs" />
     <Compile Include="Assets/Scripts/AIs/AIFactory.cs" />
@@ -141,6 +142,7 @@
     <Compile Include="Assets/Scripts/PGOs/Game States/OpponentState.cs" />
     <Compile Include="Assets/Scripts/Screens/MainMenu.cs" />
     <Compile Include="Assets/Library/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_DigitValidator.cs" />
+    <Compile Include="Assets/Scripts/Data Models/Pet/GrowthCategory.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Library/TextMesh Pro/Shaders/TMPro.cginc" />
