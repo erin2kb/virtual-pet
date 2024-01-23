@@ -8,8 +8,13 @@ public class HomeScreen : GameScreen
         if (opponent != null) opponent.CleanUp();
         if (player != null) player.CleanUp();
     }
+    
+    // Non-static wrapper to access LoadScene()
+    public void LoadNewScene(SceneInfo scene)
+    {
+        LoadScene(scene);
+    }
 
-    // Unity callbacks
     void Start()
     {
         // Destroy any PersistentGameObject instances specific to a particular minigame (e.g. player, opponent)
