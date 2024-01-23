@@ -90,6 +90,7 @@
     <Compile Include="Assets/Library/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_FrameRateCounter.cs" />
     <Compile Include="Assets/Scripts/AIs/Simon/SimonOpponentAI.cs" />
     <Compile Include="Assets/Scripts/Screens/Widgets/PlayAgainButton.cs" />
+    <Compile Include="Assets/Scripts/Screens/HomeScreen.cs" />
     <Compile Include="Assets/Scripts/Data Models/SceneInfo.cs" />
     <Compile Include="Assets/Library/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventHandler.cs" />
     <Compile Include="Assets/Scripts/Screens/Widgets/SettingsButton.cs" />
@@ -140,7 +141,6 @@
     <Compile Include="Assets/Library/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark03.cs" />
     <Compile Include="Assets/Scripts/Data Models/Difficulty.cs" />
     <Compile Include="Assets/Scripts/PGOs/Game States/OpponentState.cs" />
-    <Compile Include="Assets/Scripts/Screens/MainMenu.cs" />
     <Compile Include="Assets/Library/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_DigitValidator.cs" />
     <Compile Include="Assets/Scripts/Data Models/Pet/GrowthCategory.cs" />
   </ItemGroup>

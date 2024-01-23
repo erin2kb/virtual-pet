@@ -405,7 +405,7 @@
 "Assets/Scripts/PGOs/PersistentGameObject.cs"
 "Assets/Scripts/PGOs/SettingsManager.cs"
 "Assets/Scripts/Screens/GameScreen.cs"
-"Assets/Scripts/Screens/MainMenu.cs"
+"Assets/Scripts/Screens/HomeScreen.cs"
 "Assets/Scripts/Screens/RPS/RPSGame.cs"
 "Assets/Scripts/Screens/RPS/RPSPlayMenu.cs"
 "Assets/Scripts/Screens/SettingsMenu.cs"
