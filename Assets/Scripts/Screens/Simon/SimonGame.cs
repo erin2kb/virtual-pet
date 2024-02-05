@@ -172,6 +172,12 @@ public class SimonGame : GameScreen
         }
     }
 
+    // Non-static wrapper to access LoadScene()
+    public void LoadNewScene(SceneInfo scene)
+    {
+        LoadScene(scene);
+    }
+
     // Unity callbacks
     void Start()
     {

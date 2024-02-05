@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08a42cdc4ffbe4a5c9505842ddb3f096, type: 3}
   m_Name: Settings Menu
   m_EditorClassIdentifier: 
-  Name: SettingsMenuScene
+  Name: SettingsMenu

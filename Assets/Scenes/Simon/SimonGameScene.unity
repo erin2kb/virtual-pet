@@ -1414,9 +1414,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1674408645}
     m_Modifications:
+    - target: {fileID: 2460911483949437974, guid: 99d068d6f2b0049689e800776181211f, type: 3}
+      propertyPath: m_text
+      value: Give Up
+      objectReference: {fileID: 0}
     - target: {fileID: 3488418329632188698, guid: 99d068d6f2b0049689e800776181211f, type: 3}
       propertyPath: m_Name
       value: Quit Button
+      objectReference: {fileID: 0}
+    - target: {fileID: 5962576614524239055, guid: 99d068d6f2b0049689e800776181211f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1674408649}
+    - target: {fileID: 5962576614524239055, guid: 99d068d6f2b0049689e800776181211f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: LoadNewScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 5962576614524239055, guid: 99d068d6f2b0049689e800776181211f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: SimonGame, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 6275401553258011416, guid: 99d068d6f2b0049689e800776181211f, type: 3}
       propertyPath: m_Pivot.x
