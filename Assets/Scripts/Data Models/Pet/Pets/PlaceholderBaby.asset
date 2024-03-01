@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f7c3ff198ae744a68f567aa5a02d08e, type: 3}
   m_Name: PlaceholderBaby
   m_EditorClassIdentifier: 
-  petName: Kitten
+  speciesName: White Kitten
   sprite: {fileID: 21300000, guid: d34df5eda890d4ef89e016598e6d9685, type: 3}
   careRequirement: 0
   foodRequirement: 3

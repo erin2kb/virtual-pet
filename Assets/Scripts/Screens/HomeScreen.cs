@@ -1,6 +1,14 @@
+using System.Diagnostics;
+
 public class HomeScreen : GameScreen
 {
-    // Functions
+    // Non-static wrapper to access LoadScene()
+    public void LoadNewScene(SceneInfo scene)
+    {
+        LoadScene(scene);
+    }
+
+    // Ordinary functions
     private void CleanUp()
     {
         OpponentState opponent = OpponentState.Find();
@@ -9,12 +17,7 @@ public class HomeScreen : GameScreen
         if (player != null) player.CleanUp();
     }
     
-    // Non-static wrapper to access LoadScene()
-    public void LoadNewScene(SceneInfo scene)
-    {
-        LoadScene(scene);
-    }
-
+    // Unity callbacks
     void Start()
     {
         // Destroy any PersistentGameObject instances specific to a particular minigame (e.g. player, opponent)

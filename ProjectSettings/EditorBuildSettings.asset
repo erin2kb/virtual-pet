@@ -27,6 +27,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Simon/SimonDefeatScene.unity
     guid: 01c6c3e1c80e54f92ba9e62263a1ee33
   - enabled: 1
-    path: Assets/Scenes/Home.unity
+    path: Assets/Scenes/HomeScene.unity
     guid: 82993e145ffde4f9cbcd549b94425b70
   m_configObjects: {}

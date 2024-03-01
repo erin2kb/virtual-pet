@@ -6,25 +6,25 @@ using UnityEngine;
 public class PetLine : ScriptableObject
 {
     [SerializeField]
-    public Pet eggStage;
+    public PetSpecies eggStage;
 
     [SerializeField]
-    public Pet babyStage;
+    public PetSpecies babyStage;
 
     [SerializeField]
-    public Pet childStage;
+    public PetSpecies childStage;
 
     [SerializeField]
-    public Pet teenStage;
+    public PetSpecies teenStage;
 
     [SerializeField]
-    public Pet adultStage;
+    public PetSpecies adultStage;
 
-    public Dictionary<PetStage, Pet> stages;
+    public Dictionary<PetStage, PetSpecies> stages;
 
     void OnEnable()
     {
-        stages = new Dictionary<PetStage, Pet>() {
+        stages = new Dictionary<PetStage, PetSpecies>() {
             {PetStage.EGG, eggStage},
             {PetStage.BABY, babyStage},
             {PetStage.CHILD, childStage},

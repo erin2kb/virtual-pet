@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 public class RPSGame : GameScreen
@@ -130,6 +131,11 @@ public class RPSGame : GameScreen
             _resultsImage.sprite = _defeatSprite;
             _resultsText.text = "You Lost...";
         }
+    }
+
+    // TODO: structure this better, like maybe have a parent Game class that implements this and each child merely needs to define their category and point mappings?
+    private void awardGrowthValues() {
+        ///////ExecuteEvents.Execute<GrowthValueUpdater>()
     }
 
     // Unity callbacks

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f7c3ff198ae744a68f567aa5a02d08e, type: 3}
   m_Name: PlaceholderEgg
   m_EditorClassIdentifier: 
-  petName: Green Egg
+  speciesName: Green Egg
   sprite: {fileID: 21300000, guid: a84f7dd52aef743e8a5862143f352d1c, type: 3}
   careRequirement: 3
   foodRequirement: 0

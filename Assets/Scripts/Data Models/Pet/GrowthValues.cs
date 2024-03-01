@@ -1,24 +1,21 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
 
 public class GrowthValues
 {
-    List<int> values = new List<int>();
+    private List<int> _values = new List<int>();
 
     public GrowthValues() {
-        foreach(GrowthCategory category in Enum.GetValues(typeof(GrowthCategory))) {
-            values.Add(0);
+        for (int i = 0; i < Enum.GetValues(typeof(GrowthCategory)).Length; i++) {
+            _values.Add(0);
         }
-        // for, i
     }
 
     public int GetGrowthValue(GrowthCategory category) {
-        return values[(int)category];
+        return _values[(int)category];
     }
 
     public void SetGrowthValue(GrowthCategory category, int updatedValue) {
-        values[(int)category] = updatedValue;
-    }
+        _values[(int)category] = updatedValue;
+    }    
 }
